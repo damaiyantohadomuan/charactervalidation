@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1476970097 source:e:\kuliah\semester 3\tba\tubes\tubestba\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+
+1477071174 source:e:\kuliah\semester 3\tba\tubes\tubestbaasli\tubestba\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+
+1477121466 source:c:\users\peace\desktop\tubestba\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+
+1480129364 source:d:\tugas besar\automata\tubestba_fixnopi\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+
+1480420188 source:d:\telkom university\semester iii\[tba] teori bahasa dan automata\tugas program tba\tubestba_fixnopi\main.cpp
+	"stack.h"
+	<string.h>
+	<stdio.h>
+
+1480414065 source:d:\telkom university\semester iii\[tba] teori bahasa dan automata\tugas program tba\tubestba_fixnopi\stack.cpp
+	"stack.h"
+
+1480420188 d:\telkom university\semester iii\[tba] teori bahasa dan automata\tugas program tba\tubestba_fixnopi\stack.h
+	<iostream>
+
